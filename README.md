@@ -15,7 +15,9 @@ A fictional IT company based in Rosedale, Toronto needs to choose a location and
 The data that we have used in this project is obtained from Wikipedia and Foursquare. We have obtained the list of localities or neighbourhoods of Toronto and Melbourne from the following Wikipedia pages and website, as well as their geo-location data like latitude and longitude.
 
 https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
 https://en.wikipedia.org/wiki/Postal_district_numbers_of_Melbourne
+
 http://www.mapdevelopers.com/batch_geocode_tool.php
 
 These data is then scraped using the Beautiful Soup library in python, and then formatted into a pandas dataframe  for further processing. 
@@ -29,7 +31,9 @@ The k-means clustering algorithm is employed to perform this task. The sklearn.c
 # Technologies Used
 
 Python
+
 Libraries: pandas, numpy, requests, folium
+
 Jupyter Notebook
 
 # Results
