@@ -1,4 +1,6 @@
-# This capstone project was completed as a course requirement for the IBM Data Science Professional Certificate Specialization on Coursera.
+# The Battle of the Neighborhoods
+
+This capstone project was completed as a course requirement for the IBM Data Science Professional Certificate Specialization on Coursera.
 
 # Introduction
 
