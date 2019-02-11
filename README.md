@@ -34,7 +34,7 @@ The k-means clustering algorithm is employed to perform this task. The sklearn.c
 
 Python
 
-Libraries: pandas, numpy, requests, folium
+Libraries: pandas, numpy, requests, folium, BeautifulSoup
 
 Jupyter Notebook
 
